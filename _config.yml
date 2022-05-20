@@ -1,0 +1,83 @@
+# Site wide configuration
+
+title:            Jaryn's Blog
+locale:
+url:              https://jarynzhang.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Jaryn Zhang
+  avatar: bio-photo.png
+  bio: "Blogger & Self-proclaimed Junior Developer"
+  email: unsplashking@outlook.com
+  disqus-shortname:
+  twitter: jarynzhang
+  instagram: eianzhang
+  facebook:
+  google:
+    plus: #username
+    analytics:
+      provider: "google-universal"
+      google:
+        tracking_id: "UA-204295496-1"
+        anonymize_ip: false # default
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github:
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr:
+  codepen: #username
+  douban: leo_chang
+  location: Somewhere on Earth
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+
+gems:
+  - jekyll-feed
+
+category_archive:
+  type: liquid
+  path: /_posts.categories/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - tags
+#   layouts:
+#     tag: archive-taxonomy
+#   permalinks:
+#     tag: /_posts.tags/:name/

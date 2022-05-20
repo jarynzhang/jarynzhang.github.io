@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Book List
+  url: /books/
+
+- title: Links
+  url: /links/
+
+- title: Archive
+  url: /posts/

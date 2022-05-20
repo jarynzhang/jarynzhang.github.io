@@ -1,0 +1,18 @@
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="{{ site.url }}/">{{ site.title }}</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation">
+		  <ul>
+			  {% for link in site.data.navigation %}
+			  {% if page.url == link.url %}
+					<li><a href="{{ domain }}{{link.url}}" id="{{link.title}}" class="current">{{link.title}}</a></li>
+				{% else %}
+					<li><a href="{{ domain }}{{link.url}}">{{link.title}}</a></li>
+				{% endif %}
+				{% endfor %}
+		  </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->

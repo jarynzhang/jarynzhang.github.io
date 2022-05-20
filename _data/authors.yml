@@ -1,0 +1,29 @@
+# Authors
+
+jaryn_zhang:
+  name: Jaryn Zhang
+  web: 
+  email: Jarynzhang@outlook.com
+  bio: "hi there"
+  avatar:
+  twitter: jarynzhang
+
+
+billy_rick:
+  name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: 
+  twitter: extravagantman
+  google:
+    plus: BillyRick
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: 
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
