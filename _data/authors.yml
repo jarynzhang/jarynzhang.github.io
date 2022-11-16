@@ -8,7 +8,6 @@ jaryn_zhang:
   avatar:
   twitter: jarynzhang
 
-
 billy_rick:
   name: Billy Rick
   web: http://thewhip.com
@@ -16,8 +15,6 @@ billy_rick:
   bio: "What do you want, jewels? I am a very extravagant man."
   avatar: 
   twitter: extravagantman
-  google:
-    plus: BillyRick
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
@@ -25,5 +22,3 @@ cornelius_fiddlebone:
   bio: "I ordered what?"
   avatar: 
   twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
