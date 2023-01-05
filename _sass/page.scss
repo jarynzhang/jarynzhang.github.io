@@ -483,9 +483,9 @@ body {
 	span {
 		display: none;
 		@media #{$medium} {
-			display: inline;
-			padding-left: 0px;
-			padding-top: 0px;
+			display: block;
+            margin-bottom: 5px;
+            color: $black;
 		}
 	}
 	h4 {
