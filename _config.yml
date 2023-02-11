@@ -34,16 +34,6 @@ owner:
   twitter: jarynzhang
   instagram: jaryn.zhang
   facebook:
-  google:
-    plus: #username
-    analytics:
-      provider: "google-universal"
-      google:
-        tracking_id: "G-FKKNC5F2JX"
-        anonymize_ip: false # default
-    verify:
-    ad-client:
-    ad-slot:
   bing-verify:
   github:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
