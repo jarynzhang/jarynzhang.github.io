@@ -10,7 +10,7 @@ excerpt: "It may not suit to be cited as a reference basis for French learning, 
 
 
 
-It may not suit to be cited as a reference basis for French learning, cause I learn it by standing on another language's shoulders. But at least for me, it is a feasible and comfortable way. I want to write it here in case of any possible usefulness.
+It may not be suitable as a reference for learning French because I learned it by building upon another language. However, it is a feasible and comfortable way for me. I am writing this in case of any possible usefulness.
 
 
 
