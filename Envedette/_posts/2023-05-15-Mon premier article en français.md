@@ -3,7 +3,7 @@ categories:
    - français
 tags:
    - français
-excerpt:  Chacun voit midi à sa porte
+excerpt:  chacun voit midi à sa porte
 
 ---
 
