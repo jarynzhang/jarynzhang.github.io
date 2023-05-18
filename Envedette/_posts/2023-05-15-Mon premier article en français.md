@@ -19,12 +19,8 @@ J'ai lu de nombreuses phrases sur ce qu'un écrivain doit faire avant une date l
 
 
 
-Mais vous ne pouvez pas, vous vous êtes épuisé et il ne vous reste plus rien. Alors, que faire pour se sortir de cette situation embarrassante ?
+Mais vous ne le pouvez pas, vous vous êtes épuisé et il ne vous reste plus rien. Alors, que faire pour se sortir de cette situation embarrassante ?
 
 
 
-Pour un écrivain, il y a beaucoup de matériel. Ce qu'il ne peut pas faire, c'est attacher à chaque matériel une étiquette et procéder à un arrangement.
-
-
-
-Ce qu'il ne peut pas faire, c'est attacher à chaque matériel une étiquette et procéder à un rangement. Un rangement qui permet d'organiser les matériels dans l'ordre, et facile à faire exploser la prochaine fois.
+Pour un écrivain, il y a beaucoup de matériel. Ce qu'il ne peut pas faire, c'est attacher à chaque matériel une étiquette et procéder à un arrangement. Ce qu'il ne peut pas faire, c'est attacher à chaque matériel une étiquette et procéder à un rangement. Un rangement qui permet d'organiser les matériels dans l'ordre, et facile à faire exploser la prochaine fois.
