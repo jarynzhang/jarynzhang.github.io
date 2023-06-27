@@ -2,9 +2,9 @@
 title: "Anglais et français"
 last_modified_at:
 categories:
-   - français
+   - 
 tags:
-   - français
+   - 
 excerpt: "It may not be suitable as a reference for learning French because I learned it by building upon another language. However, it is a feasible and comfortable way for me. I am writing this in case of any possible usefulness."
 ---
 
