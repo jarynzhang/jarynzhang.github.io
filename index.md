@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "a blog about everything"
+excerpt: "a blog"
 tags: [Jarynzhang, blog, articles, books, coder, Jaryn Zhang, developer]
 image:
   feature: 
