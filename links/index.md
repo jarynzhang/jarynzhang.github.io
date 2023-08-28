@@ -24,7 +24,7 @@ image:
  * [The New York Review of Books](https://www.nybooks.com) ~~最新的主页设计采用色彩鲜明的主题，在一众白底黑字中显得格外出尘，风格独特好看好看。只做review，不给opinion（隔壁纽约客：躺着也中枪）~~
  * [duolingo·多邻国](https://www.duolingo.com) 用这个学法语感觉超级棒
  * [电台花园](http://radio.garden/) ~~根据IP地址锚定初始电台选择范围，也可以手动选择全球任意地点的电台收听，好用好用好用，最近疯狂沉迷某中文音乐频道~~
- * [鸭鸭冲呀](https://duckduckgo.com)  ~~保护隐私的浏览器，在这个一言不合就被查水表的时代，还是挺有必要的~~
+ * [鸭鸭冲呀](https://duckduckgo.com)  ~~保护隐私的搜索引擎，在这个一言不合就被查水表的时代，还是挺有必要的~~
  * [20minutes.fr](https://www.20minutes.fr)  比世界报靠谱的法语新闻网站
  * [Good Read](https://www.goodreads.com) ~~老牌图书讨论分享交流网站，不删书目，不删词条，多国语言~~
  * [Spotify](https://open.spotify.com) 音乐网站的GOAT，不对中国大陆提供服务，推荐使用网页跃迁
