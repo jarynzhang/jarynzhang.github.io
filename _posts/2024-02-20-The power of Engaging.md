@@ -84,8 +84,6 @@ On the scale of the Biology, it is called:
 
 Evolution!
 
-
-
 <br><br>
 
 [^1]: [The Origin of the Famous Saying "Know Thyself"](https://exploringyourmind.com/the-origin-of-the-famous-saying-know-thyself/)
