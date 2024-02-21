@@ -1,8 +1,6 @@
 ---
-tags:
-   - 学习
 categories:
-   -
+   - 学习
 excerpt: Language Learning and Difficulties Overcoming 10
 
 
