@@ -1,8 +1,8 @@
 ---
 categories:
-   - 
+   - français
 tags:
-   - 
+   - français
 excerpt:  Les révolutionnaires veulent Que me tête atterrisse sur un plateau d'argent Une simple marionnette a un seul fil Oh, qui voudrait jamais être roi?
 
 ---
