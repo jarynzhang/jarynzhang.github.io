@@ -9,18 +9,10 @@ excerpt:  Les révolutionnaires veulent Que me tête atterrisse sur un plateau d
 
 
 
+Je n’ai pas vraiment de sujet à traiter, et pourtant je dois essayer de faire sortir quelque chose de mon esprit. C’est une expérience assez pénible : on se retrouve face à la page, avec l’impression de devoir produire une idée alors qu’elle n’est pas encore là.
 
+J’ai souvent lu qu’un écrivain, avant une échéance, devait disposer d’une grande quantité de matière. Pour écrire un article, il ne suffit pas d’attendre l’inspiration : il faut avoir accumulé des notes, des observations, des fragments, des idées encore incomplètes. Or, ce qui me reste ce mois-ci ne suffit pas à nourrir un texte. Je n’ai pas assez de matière pour le faire grandir.
 
-Je n'ai pas de sujet à traiter, mais je dois essayer de le faire sortir de mon cerveau, ce qui est vraiment une expérience terrible.
+Dans cette situation, la seule chose possible est peut-être de retirer tout ce qui n’a pas de rapport avec le sujet, de réduire le bruit, de chercher ce qui reste une fois le superflu écarté. Mais lorsque l’on est épuisé, lorsque l’esprit semble vide, même ce travail de tri devient difficile. Comment sortir alors de cet embarras ?
 
-
-
-J'ai lu de nombreuses phrases sur ce qu'un écrivain doit faire avant une date limite. et un écrivain doit préparer beaucoup de matériel pour faire un article. ce qui m'a été laissé ce mois-ci ne peut pas fournir assez de nourriture pour grandir. et ce que je peux faire est d'exclure tout ce qui n'est pas en rapport avec ce sujet.
-
-
-
-Mais vous ne le pouvez pas, vous vous êtes épuisé et il ne vous reste plus rien. Alors, que faire pour se sortir de cette situation embarrassante ?
-
-
-
-Pour un écrivain, il y a beaucoup de matériel. Ce qu'il ne peut pas faire, c'est attacher à chaque matériel une étiquette et procéder à un arrangement. Ce qu'il ne peut pas faire, c'est attacher à chaque matériel une étiquette et procéder à un rangement. Un rangement qui permet d'organiser les matériels dans l'ordre, et facile à faire exploser la prochaine fois.
+Pour un écrivain, le problème n’est pas toujours le manque de matière. Il arrive au contraire que les matériaux soient nombreux, mais mal rangés. Ce qu’il faudrait, c’est apprendre à les classer : donner une étiquette à chaque idée, les organiser, les relier entre eux. Un bon rangement permet de retrouver plus facilement ce dont on a besoin, et surtout de faire naître, plus tard, de nouvelles associations. C’est peut-être ainsi que l’écriture peut recommencer.
