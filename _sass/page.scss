@@ -196,10 +196,7 @@ body {
   white-space: nowrap;
   border: 0;
 }
-#index .post-tags {
-  text-align: right;
-}
-#index .post-tags .post-tag {
+#index .post-tags .post-tag + .post-tag {
   margin-left: 0.35em;
 }
 

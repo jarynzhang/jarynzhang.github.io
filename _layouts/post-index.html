@@ -43,7 +43,7 @@
     {% include _author-bio.html %}
   </div>
   <div id="index" data-post-archive>
-    <h1>{{ page.title }}</h1>
+    <h3><span><a href="{{ site.url }}/">Featured</a></span> &nbsp;&nbsp;&nbsp;{{ page.title }}</h3>
     {% include _category.html %}
     {% assign previous_year = "" %}
     {% for post in site.posts %}
@@ -59,17 +59,18 @@
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
         {% assign tag_text = post.tags | join: "" | strip %}
-        {% if tag_text != "" %}
-          <p class="post-tags"><small><i class="fa fa-tag" aria-hidden="true"></i>
-            {% assign card_tags = post.tags | uniq %}
-            {% for tag in card_tags %}
-              {% assign tag_name = tag | strip %}
-              {% if tag_name != "" %}<span class="post-tag">{{ tag | escape }}</span>{% endif %}
-            {% endfor %}
-          </small></p>
+        {% if post.link == nil or tag_text != "" %}
+          <p>{% unless post.link %}{{ post.excerpt | strip_html | truncate: 160 }}{% endunless %}{% if tag_text != "" %}{% unless post.link %}<br />{% endunless %}
+            <small class="pull-right post-tags"><i class="fa fa-tag" aria-hidden="true"></i>:
+              {% assign card_tags = post.tags | uniq %}
+              {% for tag in card_tags %}
+                {% assign tag_name = tag | strip %}
+                {% if tag_name != "" %}<span class="post-tag">{{ tag | escape }}</span>{% endif %}
+              {% endfor %}
+            </small>{% endif %}
+          </p>
         {% endif %}
       </article>
       {% if forloop.last %}</section>{% endif %}
