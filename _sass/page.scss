@@ -156,6 +156,53 @@ body {
 	}
 }
 
+/* All Articles tag filtering */
+#index .tag-filter[hidden],
+#index .taxonomy__index li[hidden],
+#index .archive-year[hidden],
+#index article[hidden] {
+  display: none;
+}
+#index .taxonomy__index {
+  margin: 0.5em 0;
+  padding: 0;
+  list-style: none;
+}
+#index .taxonomy__index li {
+  display: inline-block;
+  margin: 0 0.25em 0.25em 0;
+}
+#index .taxonomy__index a {
+  display: inline-block;
+  padding: 0.4em 0.5em;
+  font-size: 14px;
+  font-size: 0.875rem;
+  border: 1px solid transparent;
+  border-radius: 3px;
+}
+#index .taxonomy__index a[aria-current=true] {
+  font-weight: bold;
+  background-color: #efefef;
+  border-color: #ccc;
+}
+#index .tag-filter-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+#index .post-tags {
+  text-align: right;
+}
+#index .post-tags .post-tag {
+  margin-left: 0.35em;
+}
+
 /* Large feature header image */
 .image-wrap {
 	position: relative;
